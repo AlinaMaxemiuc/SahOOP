@@ -1,0 +1,94 @@
+# depslib dependency file v1.0
+1652702371 source:d:\desktop\proiect poo\sah consola\sah\main.cpp
+	<iostream>
+	<string>
+	<tuple>
+	<vector>
+	<bits/stdc++.h>
+	"Piese.h"
+	"TablaJoc.h"
+	"PatratMutare.h"
+	"PionAlb.h"
+	"PionNegru.h"
+	"Regina.h"
+	"Rege.h"
+	"Tura.h"
+	"Nebun.h"
+	"Cal.h"
+
+1654503029 d:\desktop\proiect poo\sah consola\sah\include\piese.h
+	"TablaJoc.h"
+	"PatratMutare.h"
+	<string>
+	<tuple>
+
+1654503029 d:\desktop\proiect poo\sah consola\sah\include\tablajoc.h
+	<iostream>
+	"Piese.h"
+
+1654503029 d:\desktop\proiect poo\sah consola\sah\include\patratmutare.h
+	<string>
+	"Piese.h"
+	"TablaJoc.h"
+
+1654503029 d:\desktop\proiect poo\sah consola\sah\include\pionalb.h
+	"Piese.h"
+
+1654503029 d:\desktop\proiect poo\sah consola\sah\include\pionnegru.h
+	"Piese.h"
+
+1654503029 d:\desktop\proiect poo\sah consola\sah\include\regina.h
+	<string>
+	"Piese.h"
+
+1654503029 d:\desktop\proiect poo\sah consola\sah\include\rege.h
+	"Piese.h"
+
+1654503029 d:\desktop\proiect poo\sah consola\sah\include\tura.h
+	"Piese.h"
+
+1654503029 d:\desktop\proiect poo\sah consola\sah\include\nebun.h
+	"Piese.h"
+
+1654503015 d:\desktop\proiect poo\sah consola\sah\include\cal.h
+	"Piese.h"
+
+1652694202 source:d:\desktop\proiect poo\sah consola\sah\src\nebun.cpp
+	"Nebun.h"
+
+1654501809 source:d:\desktop\proiect poo\sah consola\sah\src\cal.cpp
+	"Cal.h"
+
+1652690808 source:d:\desktop\proiect poo\sah consola\sah\src\patratmutare.cpp
+	"PatratMutare.h"
+	"Piese.h"
+
+1654502080 source:d:\desktop\proiect poo\sah consola\sah\src\piese.cpp
+	"Piese.h"
+	"Regina.h"
+
+1652700427 source:d:\desktop\proiect poo\sah consola\sah\src\pionalb.cpp
+	"PionAlb.h"
+
+1654501809 source:d:\desktop\proiect poo\sah consola\sah\src\pionnegru.cpp
+	"PionNegru.h"
+
+1652706812 source:d:\desktop\proiect poo\sah consola\sah\src\rege.cpp
+	"Rege.h"
+
+1652694202 source:d:\desktop\proiect poo\sah consola\sah\src\regina.cpp
+	"Regina.h"
+
+1652708562 source:d:\desktop\proiect poo\sah consola\sah\src\tablajoc.cpp
+	"TablaJoc.h"
+	"PionAlb.h"
+	"PionNegru.h"
+	"Regina.h"
+	"Rege.h"
+	"Tura.h"
+	"Nebun.h"
+	"Cal.h"
+
+1652694202 source:d:\desktop\proiect poo\sah consola\sah\src\tura.cpp
+	"Tura.h"
+
